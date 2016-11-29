@@ -45,6 +45,8 @@ None of the following information is mandatory or directly related to our team's
 * Ruby - a really fun and powerful language to learn
     * [Ruby on Codecademy](https://www.codecademy.com/learn/ruby)
     * [Rails on Codecademy](https://www.codecademy.com/learn/learn-rails)
+* C++ & Qt - a very nice way to make GUI apps
+    * [Qt on Zetcode](http://zetcode.com/gui/qt5)
 * Haskell - a great intro to the [functional paradigm](http://stackoverflow.com/questions/2078978/functional-programming-vs-object-oriented-programming)
     * [Learn You A Haskell For Great Good!](http://learnyouahaskell.com/chapters)
     * [UVA CS 1501 Haskell Intro Lectures](http://shuklan.com/haskell)
