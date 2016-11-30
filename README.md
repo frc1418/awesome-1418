@@ -11,8 +11,9 @@ These tools must be learned by all programmers on the team.
     * [Learn Git](https://try.github.io)
         * Use [these two commands](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup#Your-Identity) to tell git your GitHub username and associated email. This way your commits will be recognized by GitHub.
     * Pass the team [GitTest](https://github.com/frc1418/GitTest) under the supervision of a programming team leader to gain admission to the team GitHub organization.
-* [Learn Markdown](http://www.markdowntutorial.com) to be able to write good READMEs
-* Read and follow our [team style guide](https://github.com/frc1418/guidelines)
+* Read and follow our [team style guide](https://github.com/frc1418/guidelines). Everyone needs to follow these guidelines so that our code is clean and universally understandable.
+* [Learn Markdown](http://www.markdowntutorial.com) to be able to write good READMEs.
+* [Understand open source licensing.](http://choosealicense.com) We generally use the [MIT license](http://choosealicense.com/licenses/mit) on our code.
 
 ## Required for robot coders
 This section encompasses material that is mandatory for all robot coders to know.
@@ -51,8 +52,11 @@ None of the following information is mandatory or directly related to our team's
     * [Learn You A Haskell For Great Good!](http://learnyouahaskell.com/chapters)
     * [UVA CS 1501 Haskell Intro Lectures](http://shuklan.com/haskell)
     * [Real World Haskell](http://book.realworldhaskell.org)
+* TeX - similar to markdown, but much more advanced with support for mathematical equations and other advanced styling.
+    * [Harvard Mathematics Department TeX Tutorial](http://www.math.harvard.edu/texman)
+    * [TeX Users Group Tutorial](https://www.tug.org/begin.html)
 * Familiarize yourself with cryptography and security.
-    * Join the CyberPatriot club if you can afford the time.
+    * Start participating in CyberPatriot if you have time.
     * Mess with [gpg](https://www.gnupg.org), [keybase](https://keybase.io), and encryption.
         * [Sign your Git commits in RSA](https://agonzalezro.github.io/signing-your-github-work-with-your-keybase-keys.html)
 * Machine Learning - super useful, interesting, and impressive skill to be familiar with
@@ -61,4 +65,4 @@ None of the following information is mandatory or directly related to our team's
     * [VASTS](http://vsgc.odu.edu/VASTS)
 * **Books**
     * _Steve Jobs_ by Walter Isaacson
-* Look through the [original awesome list](https://github.com/sindresorhus/awesome). There's lots of random resources listed there.
+* Look through the [original awesome list](https://github.com/sindresorhus/awesome). There's lots of great resources listed there.
