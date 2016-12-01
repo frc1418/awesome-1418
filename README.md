@@ -38,7 +38,7 @@ This section encompasses material that is mandatory for all UI coders to know.
 
 ## More
 None of the following information is mandatory or directly related to our team's operations, but for those interested in furthering their programming knowledge are encouraged to make full use of these resources.
-* If you haven't learned it in Computer Science, [Java on Codecademy](https://www.codecademy.com/learn/learn-java)
+* If you haven't learned it in Computer Science class (which you should make an effort to take as soon as possible), learn basic [Java on Codecademy](https://www.codecademy.com/learn/learn-java).
 * Learn to build websites and work on the [team website](http://1418.team) ([GitHub](https://github.com/frc1418/frc1418.github.io)).
     * Learn the web languages mentioned in the [UI requirements section](#required-for-ui-programmers) above.
     * Make your own website to familiarize yourself with how websites work.
@@ -47,20 +47,20 @@ None of the following information is mandatory or directly related to our team's
     * [SASS on Codecademy](https://www.codecademy.com/learn/learn-sass) - a CSS preprocessor we use for our website
 * Ruby - a really fun and powerful language to learn
     * [Ruby on Codecademy](https://www.codecademy.com/learn/ruby)
-    * [Rails on Codecademy](https://www.codecademy.com/learn/learn-rails)
-* C++ & Qt - a very nice way to make GUI apps
-    * [Qt on Zetcode](http://zetcode.com/gui/qt5)
-* Haskell - a great intro to the [functional paradigm](http://stackoverflow.com/questions/2078978/functional-programming-vs-object-oriented-programming)
-    * [Learn You A Haskell For Great Good!](http://learnyouahaskell.com/chapters)
-    * [Real World Haskell](http://book.realworldhaskell.org/read)
-    * [UVA CS 1501 Haskell Intro Lectures](http://shuklan.com/haskell)
-* TeX - similar to Markdown, but much more advanced with support for mathematical equations and other advanced styling.
-    * [Harvard Mathematics Department TeX Tutorial](http://www.math.harvard.edu/texman)
-    * [TeX Users Group Tutorial](https://www.tug.org/begin.html)
+    * [Rails on Codecademy](https://www.codecademy.com/learn/learn-rails) - a framework for using Ruby for back-end web development
 * Familiarize yourself with cryptography and security.
     * Start participating in CyberPatriot if you have time.
     * Mess with [gpg](https://www.gnupg.org), [keybase](https://keybase.io), and encryption.
         * [Sign your Git commits in RSA](https://agonzalezro.github.io/signing-your-github-work-with-your-keybase-keys.html)
+* Qt (with C++) - a very nice way to make GUI apps
+    * [Qt on Zetcode](http://zetcode.com/gui/qt5)
+* Haskell - a great intro to the [functional paradigm](http://stackoverflow.com/questions/2078978/functional-programming-vs-object-oriented-programming)
+    * [Learn You A Haskell For Great Good!](http://learnyouahaskell.com/chapters) - simplistic, eli5 book to learn the basics of the language.
+    * [Real World Haskell](http://book.realworldhaskell.org/read) - a slightly more in-depth book which does a good job of showing how to actually use the language in day-to-day programming.
+    * [UVA CS 1501 Haskell Intro Lectures](http://shuklan.com/haskell) - a set of lecture slides by a GMHS alumnus
+* TeX - similar to Markdown, but much more advanced with support for mathematical equations and other advanced styling.
+    * [Harvard Mathematics Department TeX Tutorial](http://www.math.harvard.edu/texman)
+    * [TeX Users Group Tutorial](https://www.tug.org/begin.html)
 * Machine Learning - super useful, interesting, and impressive skill to be familiar with
     * [Stanford Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning) - incredible, free (sans certificate) 11-week course. Can be done faster if you like, but teaches enough information to fill that time with ease. Note-taking highly recommended.
 * **Summer Programs**
