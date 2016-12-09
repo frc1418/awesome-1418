@@ -40,6 +40,7 @@ This section encompasses material that is mandatory for all UI coders to know.
 None of the following information is mandatory or directly related to our team's operations, but for those interested in furthering their programming knowledge are encouraged to make full use of these resources.
 * If you haven't learned it in Computer Science class (which you should make an effort to take as soon as possible), learn basic [Java on Codecademy](https://www.codecademy.com/learn/learn-java).
 * Learn basic image editing with [GIMP](https://gimp.org).
+* [Don't Use Microsoft Word](http://coding2learn.org/blog/2014/04/14/please-stop-sending-me-your-shitty-word-documents)
 * Learn to build websites and work on the [team website](http://1418.team) ([GitHub](https://github.com/frc1418/frc1418.github.io)).
     * Learn the web languages mentioned in the [UI requirements section](#required-for-ui-programmers) above.
     * Make your own website to familiarize yourself with how websites work.
