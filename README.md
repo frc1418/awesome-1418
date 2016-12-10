@@ -73,4 +73,6 @@ None of the following information is mandatory or directly related to our team's
 * **Books**
     * _Steve Jobs_ by Walter Isaacson
     * More coming soon
+* **Movies**
+    * _Spare Parts_
 * Look through the [original awesome list](https://github.com/sindresorhus/awesome). There's lots of great resources listed there.
