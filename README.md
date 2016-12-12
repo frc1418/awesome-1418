@@ -67,6 +67,7 @@ None of the following information is mandatory or directly related to our team's
     * [TeX Users Group Tutorial](https://www.tug.org/begin.html)
 * Machine Learning - super useful, interesting, and impressive skill to be familiar with
     * [Stanford Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning) - incredible, free (sans certificate) 11-week course. Can be done faster if you like, but teaches enough information to fill that time with ease. Note-taking highly recommended.
+* Learn some other skills from the [Google Student Technical Development Prereq List](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * **Summer Programs**
     * [VASTS](http://vsgc.odu.edu/VASTS)
     * More coming soon
