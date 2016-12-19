@@ -74,6 +74,8 @@ None of the following information is mandatory or directly related to our team's
 * **Books**
     * _Steve Jobs_ by Walter Isaacson
     * More coming soon
-* **Movies**
+* **Movies/TV**
     * _Spare Parts_
+    * _The Man Who Knew Infinity_
+    * _Mr. Robot_ - Actually about hacking, not robots
 * Look through the [original awesome list](https://github.com/sindresorhus/awesome). There's lots of great resources listed there.
