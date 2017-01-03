@@ -38,6 +38,7 @@ This section encompasses material that is mandatory for all UI coders to know.
 
 ## More
 None of the following information is mandatory or directly related to our team's operations, but for those interested in furthering their programming knowledge are encouraged to make full use of these resources.
+* Sign up for the [GitHub Student Developer Pack](https://education.github.com/pack). This will allow you to have unlimited free repositories and a bunch of other nice benefits, all for free.
 * If you haven't learned it in Computer Science class (which you should make an effort to take as soon as possible), learn basic [Java on Codecademy](https://www.codecademy.com/learn/learn-java).
 * Check out zsh with [oh my zsh](http://ohmyz.sh)
 * Learn basic image editing with [GIMP](https://gimp.org).
