@@ -57,10 +57,11 @@ None of the following information is mandatory or directly related to our team's
     * Start participating in CyberPatriot if you have time.
     * Mess with [gpg](https://www.gnupg.org), [keybase](https://keybase.io), and encryption.
         * [Sign your Git commits in RSA](https://agonzalezro.github.io/signing-your-github-work-with-your-keybase-keys.html)
+* Learn to use [Regular Expressions](https://regexone.com) - they're cool
 * Qt (with C++) - a very nice way to make GUI apps
     * [Qt on Zetcode](http://zetcode.com/gui/qt5)
 * Haskell - a great intro to the [functional paradigm](http://stackoverflow.com/questions/2078978/functional-programming-vs-object-oriented-programming)
-    * [Learn You A Haskell For Great Good!](http://learnyouahaskell.com/chapters) - simplistic, eli5 book to learn the basics of the language.
+    * [Learn You A Haskell For Great Good!](http://learnyouahaskell.com/chapters) - sYimplistic, eli5 book to learn the basics of the language.
     * [Real World Haskell](http://book.realworldhaskell.org/read) - a slightly more in-depth book which does a good job of showing how to actually use the language in day-to-day programming.
     * [UVA CS 1501 Haskell Intro Lectures](http://shuklan.com/haskell) - a set of lecture slides by a GMHS alumnus
 * TeX - similar to Markdown, but much more advanced with support for mathematical equations and other advanced styling.
