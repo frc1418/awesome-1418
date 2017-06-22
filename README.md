@@ -28,7 +28,7 @@ This section encompasses material that is mandatory for all robot coders to know
 This section encompasses material that is mandatory for all UI coders to know.
 * Web languages - used on robot dashboard and elsewhere
     * [HTML/CSS on Codecademy](https://www.codecademy.com/learn/learn-html-css)
-    * [JavaScript on Codecademy](https://www.codecademy.com/learn/learn-javascript). Some optional frameworks to learn about:
+    * [JavaScript on Codecademy](https://www.codecademy.com/learn/learn-javascript). Some **optional** frameworks to learn about:
         * [JQuery on Codecademy](https://www.codecademy.com/learn/jquery)
         * [ReactJS on Codecademy](https://www.codecademy.com/learn/react-101) ([Part 2](https://www.codecademy.com/learn/react-102))
         * [AngularJS on Codecademy](https://www.codecademy.com/learn/learn-angularjs)
@@ -71,13 +71,15 @@ None of the following information is mandatory or directly related to our team's
     * [Stanford Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning) - incredible, free (sans certificate) 11-week course. Can be done faster if you like, but teaches enough information to fill that time with ease. Note-taking highly recommended.
 * Learn some other skills from the [Google Student Technical Development Prereq List](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * **Summer Programs**
+    * If you can possibly fit it in, take Personal Finance and Economics over the summer as early as you can. You do not want to leave this for later. Talk to your counselor for more information.
     * [VASTS](http://vsgc.odu.edu/VASTS)
-    * More coming soon
+    * [MIT Marine Autonomy Bay](http://oceanai.mit.edu/pavlab/pmwiki/pmwiki.php)
+    * Virginia Governor's School for Science and Technology
 * **Books**
     * _Steve Jobs_ by Walter Isaacson
-    * More coming soon
+    * _The C Programming Language_ by Dennis Ritchie and Brian Kernighan
+    * _The Cathedral and the Bazaar_ by Eric S. Raymond
 * **Movies/TV**
-    * _Spare Parts_
-    * _The Man Who Knew Infinity_
-    * _Mr. Robot_ - Actually about hacking, not robots
+    * _Spare Parts_ - About a robotics team composed of undocumented high schoolers who beat MIT in the UCSD Underwater Robotics Competition
+    * _Mr. Robot_ - Realistic (!) hacking drama show
 * Look through the [original awesome list](https://github.com/sindresorhus/awesome). There's lots of great resources listed there.
