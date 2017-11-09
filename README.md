@@ -61,7 +61,7 @@ None of the following information is mandatory or directly related to our team's
 * Qt (with C++) - a very nice way to make GUI apps
     * [Qt on Zetcode](http://zetcode.com/gui/qt5)
 * Haskell - a great intro to the [functional paradigm](http://stackoverflow.com/questions/2078978/functional-programming-vs-object-oriented-programming)
-    * [Learn You A Haskell For Great Good!](http://learnyouahaskell.com/chapters) - sYimplistic, eli5 book to learn the basics of the language.
+    * [Learn You A Haskell For Great Good!](http://learnyouahaskell.com/chapters) - simplistic, eli5 book to learn the basics of the language.
     * [Real World Haskell](http://book.realworldhaskell.org/read) - a slightly more in-depth book which does a good job of showing how to actually use the language in day-to-day programming.
     * [UVA CS 1501 Haskell Intro Lectures](http://shuklan.com/haskell) - a set of lecture slides by a GMHS alumnus
 * TeX - similar to Markdown, but much more advanced with support for mathematical equations and other advanced styling.
@@ -74,12 +74,13 @@ None of the following information is mandatory or directly related to our team's
     * If you can possibly fit it in, take Personal Finance and Economics over the summer as early as you can. You do not want to leave this for later. Talk to your counselor for more information.
     * [VASTS](http://vsgc.odu.edu/VASTS)
     * [MIT Marine Autonomy Bay](http://oceanai.mit.edu/pavlab/pmwiki/pmwiki.php)
-    * Virginia Governor's School for Science and Technology
-* **Books**
+    * Virginia Governor's School for Math, Science, and Technology
+* **Books** - many of these are available at Mary Riley Styles Public Library, at which Falls Church residents and GM students can get free cards.
     * _Steve Jobs_ by Walter Isaacson
     * _The C Programming Language_ by Dennis Ritchie and Brian Kernighan
     * _The Cathedral and the Bazaar_ by Eric S. Raymond
+    * _UNIX: The Complete Reference, Second Edition_ by various authors
 * **Movies/TV**
     * _Spare Parts_ - About a robotics team composed of undocumented high schoolers who beat MIT in the UCSD Underwater Robotics Competition
     * _Mr. Robot_ - Realistic (!) hacking drama show
-* Look through the [original awesome list](https://github.com/sindresorhus/awesome). There's lots of great resources listed there.
+* Look through the [original awesome list](https://github.com/sindresorhus/awesome). There's lots of great resources listed there on every programming topic that exists.
