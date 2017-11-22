@@ -83,4 +83,8 @@ None of the following information is mandatory or directly related to our team's
 * **Movies/TV**
     * _Spare Parts_ - About a robotics team composed of undocumented high schoolers who beat MIT in the UCSD Underwater Robotics Competition
     * _Mr. Robot_ - Realistic (!) hacking drama show
+* **Podcasts**
+    * _The Changelog_ (including [subpodcasts](https://changelog.com/podcasts))
+    * _Software Engineering Radio_
+    * _CodePen Radio_
 * Look through the [original awesome list](https://github.com/sindresorhus/awesome). There's lots of great resources listed there on every programming topic that exists.
