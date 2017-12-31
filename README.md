@@ -87,4 +87,6 @@ None of the following information is mandatory or directly related to our team's
     * _The Changelog_ (including [subpodcasts](https://changelog.com/podcasts))
     * _Software Engineering Radio_
     * _CodePen Radio_
+* **Apps**
+    * [Enki](https://enki.com/) - Daily programming tips and "workouts." Great for learning new tricks in Git, Python, Java, CS Theory, Web, JavaScript, and more.
 * Look through the [original awesome list](https://github.com/sindresorhus/awesome). There's lots of great resources listed there on every programming topic that exists.
