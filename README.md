@@ -74,7 +74,7 @@ None of the following information is mandatory or directly related to our team's
     * If you can possibly fit it in, take Personal Finance and Economics over the summer as early as you can. You do not want to leave this for later. Talk to your counselor for more information.
     * [VASTS](http://vsgc.odu.edu/VASTS)
     * [MIT Marine Autonomy Bay](http://oceanai.mit.edu/pavlab/pmwiki/pmwiki.php)
-    * Virginia Governor's School for Math, Science, and Technology
+    * [Virginia Governor's School for Math, Science, and Technology](https://www.lynchburg.edu/academics/governors-school/)
 * **Books** - many of these are available at Mary Riley Styles Public Library, at which Falls Church residents and GM students can get free cards.
     * _Steve Jobs_ by Walter Isaacson
     * _The C Programming Language_ by Dennis Ritchie and Brian Kernighan
