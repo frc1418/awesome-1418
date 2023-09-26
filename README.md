@@ -4,7 +4,7 @@ A list of interesting resources for 1418 programmers.
 
 ## Required for all programmers
 These tools must be learned by all programmers on the team.
-* [Download and use Atom](https://atom.io) or another capable code editor.
+* Download and use VS Code
 * [Learn Command Line on Codecademy](https://www.codecademy.com/learn/learn-the-command-line)
 * git gud
     * [Learn the GitHub web interface](https://guides.github.com/activities/hello-world)
@@ -14,15 +14,6 @@ These tools must be learned by all programmers on the team.
 * Read and follow our [team style guide](https://github.com/frc1418/guidelines). Everyone needs to follow these guidelines so that our code is clean and universally understandable.
 * [Learn Markdown](http://www.markdowntutorial.com) to be able to write good READMEs.
 * [Understand open source licensing.](http://choosealicense.com) We generally use the [MIT license](http://choosealicense.com/licenses/mit) on our code.
-
-## Required for robot programmers
-This section encompasses material that is mandatory for all robot coders to know.
-* Python
-    * Powerful general-purpose language, useful for everyone even those not on Robot Code team
-    * [Python on Codecademy](https://www.codecademy.com/learn/python)
-    * [pyrobottraining](https://github.com/robotpy/pyrobottraining) - learn how to use Python for robot code
-    * Examine [last year's robot code](https://github.com/frc1418/2016-robot)
-    * Go through [the uncommented version of 2016's code](https://github.com/ErikBoesen/2016-robot-nocomments) and write code comments explaining each part. This helps most people figure out how robot code works.
 
 ## Required for UI programmers
 This section encompasses material that is mandatory for all UI coders to know.
@@ -34,10 +25,17 @@ This section encompasses material that is mandatory for all UI coders to know.
         * [AngularJS on Codecademy](https://www.codecademy.com/learn/learn-angularjs)
 * Learn to use the [FRC Dashboard](https://github.com/FRCDashboard/FRCDashboard) dashboard development framework.
     * Complete the [FRC Dashboard Training Module](https://github.com/FRCDashboard/training)
-    * Take a look at [our dashboard code](https://github.com/frc1418/FRCDashboard)
+    * Take a look at [our dashboard code](https://github.com/frc1418/2022-dashboard)
 
 ## More
 None of the following information is mandatory or directly related to our team's operations, but for those interested in furthering their programming knowledge are encouraged to make full use of these resources.
+This section encompasses material that is mandatory for all robot coders to know.
+* Python
+    * Powerful general-purpose language, useful for everyone even those not on Robot Code team
+    * [Python on Codecademy](https://www.codecademy.com/learn/python)
+    * [pyrobottraining](https://github.com/robotpy/pyrobottraining) - learn how to use Python for robot code
+    * Examine [last year's robot code](https://github.com/frc1418/2023-robot)
+    * Go through [the uncommented version of 2016's code](https://github.com/ErikBoesen/2016-robot-nocomments) and write code comments explaining each part. This helps most people figure out how robot code works.
 * Sign up for the [GitHub Student Developer Pack](https://education.github.com/pack). This will allow you to have unlimited free repositories and a bunch of other nice benefits, all for free.
 * If you haven't learned it in Computer Science class (which you should make an effort to take as soon as possible), learn basic [Java on Codecademy](https://www.codecademy.com/learn/learn-java).
 * Check out zsh with [oh my zsh](http://ohmyz.sh)
